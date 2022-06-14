@@ -1,4 +1,5 @@
 # Kickstarting with Excel
+https://github.com/Vanattar/Analysis_of_Kickstarter_Campaigns/blob/main/Royce_Kickstarter_Challenge_Final.xlsx.zip
 
 ## Overview of Project
 Louise recently failed to reach a financial goal although she had 10 strong backers. Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Use the Kickstarter dataset to visualize campaign outcomes based on their launch dates and their funding goals. She is looking for further insight into what actions could improve her future campaign to fund the production of her play.
